@@ -10,11 +10,12 @@ practice notebooks.
 
 ## 👥 Team Members
 
-| Name | Role |
-|------|------|
-| Yashwanth | Team Member | Roll Numbers
-|V. Bharath | Team Member | 2520030169
-| Ch. Yashwanth | Team Member | 2520030259
+| Name      | Roll Numbers |
+|-----------|--------------|
+| Yashwanth | 2520030259   |
+| Bharath   | 2520030169   |
+
+
 
 ---
 
