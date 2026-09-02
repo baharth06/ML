@@ -1,10 +1,6 @@
-# 🤖 Machine Learning Project
+# 🤖 Machine Learning  Repositotry
 
-Welcome to our Machine Learning project repository.
 
-This repository contains our Machine Learning learning work, experiments, 
-Exploratory Data Analysis (EDA), Decision Tree implementation, and weekly 
-practice notebooks.
 
 ---
 
