@@ -1,0 +1,3 @@
+KMeansCluster,n_students,placement_rate,avg_CGPA,avg_AttendancePercent,avg_AptitudeTestScore,avg_SoftSkillsRating,avg_CodingTestScore,avg_MockInterviewScore,avg_Internships,avg_Projects
+0,26429,0.202,6.558,67.338,54.559,5.444,47.26,54.743,0.621,1.556
+1,23571,0.781,8.131,83.34,76.411,7.658,74.035,76.239,1.978,3.628
